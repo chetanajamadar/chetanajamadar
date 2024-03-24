@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MSC(Statistics)
 - 💞️ I’m looking to collaborate on jobs related to statisticians
 - 📫 How to reach me chetanajamadar932@gmail.com
-- 😄 Pronouns: Chetana
+  
 
 <!---
 chetanajamadar/chetanajamadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
